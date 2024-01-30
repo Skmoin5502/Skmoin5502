@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/skmoin5502" target="blank"><img src="https://img.shields.io/twitter/follow/skmoin5502?logo=twitter&style=for-the-badge" alt="skmoin5502" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **Data Structures And Algorithms** 
 
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 
