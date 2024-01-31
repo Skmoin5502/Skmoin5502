@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love Gaming**
 
-- 🌐 MY Group's Github Profle = https://github.com/Random-Guyz
+- 🌐👨‍💻 All of my projects are available at my Group's Github Profle = https://github.com/Random-Guyz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
